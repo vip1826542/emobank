@@ -1,0 +1,19 @@
+{
+  "name": "EMOB",
+  "symbol": "EMOB",
+  "contract": "okkkkkkkkkkk",
+  "issuer": "okkkkkkkkkkk",
+  "precision": 4,
+  "logo": "https://raw.githubusercontent.com/BlockABC/eos-tokens/master/tokens/okkkkkkkkkkk/EMOB.png",
+  "desc": {
+    "en": "eMOB is a secure and transparent professional digital currency online banking based on blockchain.  With the rapid development of the digital currency industry, the role of blockchain technology in the field of financial services has further expanded, bringing huge potential market opportunities.  Therefore, there is an urgent need for products with complete functions, comprehensive services, and comprehensive application scenarios to meet market demands.  In the field of cryptocurrency, eMOBank has built a comprehensive product framework consisting of four core modules: deposit, transaction, lending, and strategic investment (fixed investment).",
+    "zh": "eMOB 基于区块链的安全透明专业数字货币网上银行。 随着数字货币产业的快速发展，区块链技术在金融服务领域的作用进一步扩大，带来了巨大的潜在市场机遇。因此，迫切需要功能齐全、服务全面、应用场景全面的产品来满足市场需求。 在加密货币领域，eMOBank构建了包含存款、交易、借贷、战略投资(定投）四大核心模块的综合产品框架。",
+    "ko": "eMOB는 블록 체인 기반의 안전하고 투명한 전문 디지털 통화 온라인 뱅킹입니다.  디지털 통화 산업의 급속한 발전으로 금융 서비스 분야에서 블록 체인 기술의 역할이 더욱 확대되어 잠재적 인 시장 기회가 크게 늘어났습니다.  따라서 시장의 요구를 충족시키기 위해 완전한 기능, 포괄적 인 서비스 및 포괄적 인 애플리케이션 시나리오를 갖춘 제품이 절실히 필요합니다.  암호 화폐 분야에서 eMOBank는 예금, 거래, 대출 및 전략적 투자 (고정 투자)의 네 가지 핵심 모듈로 구성된 포괄적 인 제품 프레임 워크를 구축했습니다."
+  },
+  "website": "http://emob.pro",
+  "whitepaper": "http://emob.pro/pdf/web",
+  "links": {
+    "telegram": "https://0.plus/joinchat/IFjlog6z2AExzRiNIWn9Jw",
+    "twitter": "https://twitter.com/emobank",
+  }
+}
